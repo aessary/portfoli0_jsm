@@ -23,7 +23,6 @@
 
 Welcome to my coding journey! In this repository, I am following along with Adrian from [JavaScript Mastery](https://www.youtube.com/watch?v=ukiGFmZ32YA&t=336s&ab_channel=JavaScriptMastery). As an aspiring software developer, I'm using this project to learn best practices and improve my skills.
 
-https://github.com/adrianhajdin
 
 
 ## 📚 Project Overview
@@ -100,8 +99,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/TBC
-cd portfolio
+git clone R3SS1/portfoli0_jsm.git
+cd portfoli0_jsm
 ```
 
 **Installation**
