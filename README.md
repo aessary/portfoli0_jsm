@@ -99,7 +99,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone R3SS1/portfoli0_jsm.git
+git clone https://github.com/r3ss1/portfoli0_jsm.git
 cd portfoli0_jsm
 ```
 
