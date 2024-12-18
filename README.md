@@ -12,27 +12,72 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
+  <br />
+ <p>Hero section </p><br />
+   <img src="https://github.com/user-attachments/assets/b0ff4d9f-f34d-454c-9d2a-90346561ef0d" alt="Hero section">
+  
+  <br /> 
+
+<br />
+ <p>Bento Grid section</p><br />
+   <img src="https://github.com/user-attachments/assets/a56a8824-7032-4287-91d5-1f0a9670dca9" alt="Bento Grid section">
+ 
+  <br /> 
+<br /> 
+ 
+ <p>Recent Projects</p><br />
+   <img src="https://github.com/user-attachments/assets/ca4488c0-3990-4e31-8439-2c74142f2d0a" alt="Recent Projects">
+  
+  <br /> 
+  <br />
+ 
+ <p>Testimonials</p>  <br /> 
+   <img src="https://github.com/user-attachments/assets/287aa0fc-f127-4e1a-a9b0-08a728262069" alt="Testimonials">
+ 
+  <br /> <br />
+  
+ <p>My Work experience</p>  <br /> 
+   <img src="https://github.com/user-attachments/assets/6f9af7e1-2eed-4c81-a4d7-18e0ec1931c3" alt="My Work experience">
+ 
+  <br /> <br />
+  
+
 <h3 align="center">A Modern Next.js Portfolio</h3>
 
-   <div align="center">
-     Build this project step by step with Adrian's detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+  
 </div>
 
 # Coding Along with Adrian (JavaScript Mastery)
 
-Welcome to my coding journey! In this repository, I am following along with Adrian from [JavaScript Mastery](https://www.youtube.com/watch?v=ukiGFmZ32YA&t=336s&ab_channel=JavaScriptMastery). As an aspiring software developer, I'm using this project to learn best practices and improve my skills.
+Welcome to my coding journey! In this repository, I am coding along with Adrian. As an aspiring software developer, I'm using this project to learn best practices and improve my skills.
 
 
 
 ## 📚 Project Overview
 
-This project is based on a tutorial where Adrian guides viewers through the development of an amazing developer portfolio using Next.js, Three.js, Framer Motion, and Tailwind CSS. While I am not the original developer of this application, I am documenting my progress and any challenges I face while coding along.
+This project is based on a tutorial where Adrian guides viewers through the development of an amazing developer portfolio using Next.js, Three.js, Framer Motion and Tailwind CSS. 
+
 
 ## 🎥 Video Reference
 
-You can watch the tutorial here: [JavaScript Mastery Tutorial](https://www.youtube.com/watch?v=FTH6Dn3AyIQ&t=6761s&ab_channel=JavaScriptMastery
-).
+You can watch the tutorial here: [JavaScript Mastery Tutorial](https://www.youtube.com/watch?v=FTH6Dn3AyIQ&t=6761s&ab_channel=JavaScriptMastery).
+
+## 📋 <a name="table">Table of Contents</a>
+
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
+5. 🕸️ [Code to Copy](#snippets)
+6. 🔗 [Assets](#links)
+7. 🚀 [More](#more)
+
+
+
+## <a name="introduction">🤖 Introduction</a>
+
+Built with Next.js for handling the user interface, Three.js for rendering 3D elements, Framer motion for beautiful animations and styled with TailwindCSS, this portfolio demonstrates the developer's skills in a unique manner that creates a lasting impact.
+
 
 
 ## 🛠️ **Technologies Used**
