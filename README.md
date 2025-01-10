@@ -10,8 +10,16 @@
     <img src="https://img.shields.io/badge/-Framer-black?style=for-the-badge&logoColor=white&logo=framer&color=0055FF" alt="framer" />
     <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-  </div>
+  </div><br /><br />
+<div align="center">
+  In this project, I am coding along with Adrian (JavaScript Mastery) to build a Next.js porfolia landing page.. 
 
+<br><br>
+    <a href="https://www.youtube.com/watch?v=FTH6Dn3AyIQ&t=6761s&ab_channel=JavaScriptMastery" target="_blank">Project Video</a>
+    <br>
+    <a href="https://www.papareact.com/ticketr-build-form](https://github.com/adrianhajdin/portfolio" target="_blank">Project Source code</a><br><br>
+
+   </div>
   <br />
  <p>Hero section </p><br />
    <img src="https://github.com/user-attachments/assets/b0ff4d9f-f34d-454c-9d2a-90346561ef0d" alt="Hero section">
@@ -47,20 +55,8 @@
   
 </div>
 
-# Coding Along with Adrian (JavaScript Mastery)
-
-Welcome to my coding journey! In this repository, I am coding along with Adrian. As an aspiring software developer, I'm using this project to learn best practices and improve my skills.
 
 
-
-## 📚 Project Overview
-
-This project is based on a tutorial where Adrian guides viewers through the development of an amazing developer portfolio using Next.js, Three.js, Framer Motion and Tailwind CSS. 
-
-
-## 🎥 Video Reference
-
-You can watch the tutorial here: [JavaScript Mastery Tutorial](https://www.youtube.com/watch?v=FTH6Dn3AyIQ&t=6761s&ab_channel=JavaScriptMastery).
 
 ## 📋 <a name="table">Table of Contents</a>
 
