@@ -17,7 +17,7 @@
 <br><br>
     <a href="https://www.youtube.com/watch?v=FTH6Dn3AyIQ&t=6761s&ab_channel=JavaScriptMastery" target="_blank">Project Video</a>
     <br>
-    <a href="https://www.papareact.com/ticketr-build-form](https://github.com/adrianhajdin/portfolio" target="_blank">Project Source code</a><br><br>
+    <a href="https://github.com/adrianhajdin/portfolio.git" target="_blank">Project Source code</a><br><br>
 
    </div>
   <br />
